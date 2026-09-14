@@ -34,6 +34,8 @@ https://officialsiran-cell.github.io/simple-web-calculator/
 F.Mohamed Siran
 
 BSc (IT) Student
+
 Department Of Computer Science
+
 Open University of Sri Lanka
 ``
